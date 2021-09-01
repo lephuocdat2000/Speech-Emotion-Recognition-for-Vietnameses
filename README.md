@@ -5,6 +5,8 @@ Input: Một câu nói Tiếng Việt khoảng 5-10 câu
 
 Output: Cảm xúc của câu nói đó ( Angry, Happy, Sad, Neutral
 
+Dataset: 500 câu nói Tiếng Việt
+
 Feature Engineering: Sử dụng đặc trưng mel-spectrogram là đặc trưng biển diễn âm thanh dưới dạng tần số
 
 Kiến trúc mạng: 
